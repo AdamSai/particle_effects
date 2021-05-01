@@ -3,7 +3,6 @@
 This repository contains a variety of particle effects created with the Half Life Alyx Workshop Tools.  
 I am mainly a programmer, so these are by no means perfect.  
 They should, however, serve as placeholders or inspiration for your own particles effects.
-Download links for each particle effect are above each `.gif`.
 
 I recommend reading the [S&box wiki.](https://wiki.facepunch.com/sbox/Creating_your_first_particle_effect) if you want to learn more about particle effects in S&box or Half Life Alyx.
 
@@ -11,6 +10,7 @@ I recommend reading the [S&box wiki.](https://wiki.facepunch.com/sbox/Creating_y
 
 - [License](#license)
 - [How to](#how-to)
+- [Download](#download)
 - [Instant Emitters](#instant-emitters)
 - [Status Effects](#status-effects)
 - [Sphere shapes](#sphere-shapes)
@@ -27,9 +27,11 @@ Unzip the files so that the `materials` and `particles` folders are in the root 
 
 If you want to move the location of the files, you might have to changes the paths in the `.vtex` and `.mks` files. They can be opened in any text editor.
 
-## All
+## Download
 
-If you wish to download all the particles effects they can be downloaded [HERE](https://mega.nz/file/Ol5USISb#GseAC5LrrxkAZE8QYli3_Gkg6I4OUq0IIMEkjyn0W24)
+Download links for each particle effect are above each `.gif`.
+
+However, if you wish to download all the particles effects they can be downloaded as a bundle [HERE](https://mega.nz/file/Ol5USISb#GseAC5LrrxkAZE8QYli3_Gkg6I4OUq0IIMEkjyn0W24)
 
 ## Instant Emitters
 
