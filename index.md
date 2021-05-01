@@ -5,7 +5,7 @@ I am mainly a programmer, so these are by no means perfect.
 They should, however, serve as placeholders or inspiration for your own particles effects.
 Download links for each particle effect are above each `.gif`.
 
-If you want to learn more about particle effects in S&box or Half Life Alyx, I recommend reading the [S&box wiki.](https://wiki.facepunch.com/sbox/Creating_your_first_particle_effect)
+I recommend reading the [S&box wiki.](https://wiki.facepunch.com/sbox/Creating_your_first_particle_effect) if you want to learn more about particle effects in S&box or Half Life Alyx.
 
 # Table of contents
 
